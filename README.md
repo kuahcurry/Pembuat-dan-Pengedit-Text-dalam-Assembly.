@@ -3,8 +3,9 @@ Tugas Akhir DSK Sem 1
 
 Aqief Idlan Hakimi-2200018051
 UAD Projects
+#Note : Credits belongs to @jacobtredwell
+https://github.com/jacobtredwell/Text-Editor-in-Assembly-Language
 
 Link Youtube  : https://www.youtube.com/watch?v=o6hhQVxa84I
 
-#Note : Credits belongs to @jacobtredwell
-https://github.com/jacobtredwell/Text-Editor-in-Assembly-Language
+
